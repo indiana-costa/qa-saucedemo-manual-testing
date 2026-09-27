@@ -88,6 +88,10 @@ Lista dos cenários funcionais definidos para a aplicação.
 
 Planilha contendo os casos de teste, passos, resultados esperados, resultados obtidos e status da execução.
 
+📸 Evidências
+
+Algumas evidências da execução dos testes manuais realizados no SauceDemo.
+
 ### Relatório de Testes
 
 Documento com o resumo da execução e os resultados obtidos.

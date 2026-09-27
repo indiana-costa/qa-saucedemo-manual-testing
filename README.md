@@ -68,10 +68,17 @@ qa-saucedemo-manual-testing/
 ├── docs/
 │   ├── plano-de-testes.md
 │   ├── cenarios-de-testes.md
-│   └── relatorio-de-testes.md
+│   ├── relatorio-de-testes.md
+│   └── casos-de-teste.md
 │
-└── test-cases/
-    └── casos-de-teste.xlsx
+├── test-cases/
+│   └── casos-de-teste.xlsx
+│
+├── evidencias/
+├── login.png
+├── produtos.png
+├── login-invalido.png
+└── compra-finalizada.png
 ```
 
 ## 📋 Documentação
